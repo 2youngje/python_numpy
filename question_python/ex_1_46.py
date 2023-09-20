@@ -1,3 +1,4 @@
+#Mean Subtraction
 scores = [10,20,30]
 
 #method.1
