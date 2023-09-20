@@ -11,4 +11,5 @@ for dim_idx in range(len(v1)):
 #e_distance를 설정하고 합의 제곱을 선언
 e_distance =  diff_square_sum**0.5
 
+#ㅇㅇㅇ
 print("Euclidean distance between v1 and v2: ",e_distance)
