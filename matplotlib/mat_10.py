@@ -13,6 +13,6 @@ for ax_idx in range(12):
             label=label_template.format(ax_idx))
 ax.legend(fontsize=15,
           ncol=4,
-          bbox_to_anchor=(0.5,0),
+          bbox_to_anchor=(0.5,0.05),
           loc = 'upper center')
 plt.show()
