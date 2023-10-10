@@ -15,7 +15,7 @@ ax.tick_params(labelsize=30,
                width=3)
 
 ax.hist(data, rwidth=0.9)
-=======
+
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -25,6 +25,5 @@ math_scores = np.random.normal(loc=50,scale=10,size=(100,))
 
 fig,ax = plt.subplots(figsize=(7,7))
 ax.boxplot(math_scores)
->>>>>>> origin/main
 
 plt.show()
