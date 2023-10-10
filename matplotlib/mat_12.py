@@ -12,3 +12,4 @@ species = iris.target_names
 n_species = len(species)
 
 iris_X, iris_y = iris.data, iris.target
+plt.show()
